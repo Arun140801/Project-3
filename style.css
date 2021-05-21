@@ -36,21 +36,21 @@
 /* -------------------dark mode------------------- */
 
 .dark-body  {
-    color: iron;
-    background: #D2DADB;
+    color: white;
+    background: #FFFFFF;
 }
 
 .dark-toggle {
-    color: #D2DADB;
-    background: iron;
+    color: #FFFFFF;
+    background: white;
 }
 
 .dark-profile-img {
-    border: 3px solid #DED5AB;
+    border: 3px solid #FFFFFF;
 }
 
 .dark-table {
-    border: 1px solid iron;
+    border: 1px solid white;
 }
 
 /* -----------------dark mode-------------------- */
