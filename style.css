@@ -129,7 +129,7 @@ dt {
     margin: 10px;
     width: 80%;
     display: flex;
-    flex-order: row;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     margin-top: 52px;
