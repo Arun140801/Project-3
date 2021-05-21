@@ -1,7 +1,7 @@
 let body = document.getElementById("body");
 console.log(body)
 
-let profileImg = document.getElementById("profile-img");
+let profileImg = document.getElementById("Profile-img");
 
 let table = document.getElementById("table");
 console.log(table)
