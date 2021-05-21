@@ -128,7 +128,8 @@ dt {
 #contacts {
     margin: 10px;
     width: 80%;
-    display: flex-direction="row";
+    display: flex;
+    flex-direction: row;
     justify-content: space-around;
     align-items: center;
     margin-top: 52px;
